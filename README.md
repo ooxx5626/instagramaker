@@ -4,7 +4,7 @@ Auto Create Instagram Accounts
 
 ## Screenshot
 
-<img src="img/demo.png" width="500px">
+<img src="img/demo.png" width="700px">
 
 ## Getting Started
 Install
